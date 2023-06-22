@@ -54,10 +54,6 @@ lopettamiseksi ............................................................... 4
 
 #### 7 SOPIMUKSEN VOIMASSAOLO ............................... 47
 
-
-```
-Sisällysluettelo
-```
 **II PALKKAUS ................................................................ 48**
 
 #### 8 TYÖNVAATIVUUS JA TYÖKOHTAINEN
@@ -68,18 +64,23 @@ Sisällysluettelo
 8.1 Työnvaativuus ......................................................... 48
 8.2 Työkohtainen palkanosuus ...................................... 54
 ```
-9 PÄTEVYYS JA HENKILÖKOHTAINEN
-PALKANOSUUS ......................................................... 54
+#### 9 PÄTEVYYS JA HENKILÖKOHTAINEN PALKANOSUUS ......................................................... 54
+
+```
 9.1 Pätevyys .................................................................. 54
 9.2 Henkilökohtainen palkanosuus ............................... 54
+```
 
-10 ALLE 18-VUOTIAAT TYÖNTEKIJÄT, OPISKELIJAT,
+#### 10 ALLE 18-VUOTIAAT TYÖNTEKIJÄT, OPISKELIJAT,
 HARJOITTELIJAT JA TYÖRAJOITTEISET ............ 55
+
+```
 10.1 Alle 18-vuotiaat työntekijät, opiskelijat ja
 harjoittelijat ................................................................... 55
 10.2 Työrajoitteiset ....................................................... 57
+```
 
-11 TYÖNTEKIJÄN PALKKA .......................................... 57
+#### 11 TYÖNTEKIJÄN PALKKA .......................................... 57
 
 ```
 11.1 Työntekijän peruspalkka ....................................... 57
@@ -87,23 +88,14 @@ harjoittelijat .................................................................
 11.3 Aika- ja suorituspalkkojen kehityksen vertailu ..... 60
 11.4 Paikallisesti sovittu palkkausjärjestelmä............... 61
 ```
-12 TYÖNTUTKIMUKSET .............................................. 61
+#### 12 TYÖNTUTKIMUKSET .............................................. 61
 
-#### 13 AIKA- JA SUORITUSPALKKOJA TÄYDENTÄVÄT
-
-#### TULOSPALKKIOT ..................................................... 62
+#### 13 AIKA- JA SUORITUSPALKKOJA TÄYDENTÄVÄT TULOSPALKKIOT ..................................................... 62
 
 ```
 13.1 Tulospalkkiojärjestelmän laatiminen ja
 käyttöönotto .................................................................. 62
 13.2 Tulospalkkion käsittely palkkahallinnossa ........... 63
-```
-
-## Sisällysluettelo
-
-
-```
-Sisällysluettelo
 ```
 **III TYÖAIKA JA VUOSILOMA .......................................... 72**
 
@@ -120,8 +112,9 @@ Sisällysluettelo
 säännöllisen työajan lisääminen sekä vähentäminen .... 80
 19.8 Työaikapankki .................................................... 82
 ```
-20 SÄÄNNÖLLISEN TYÖAJAN YLITTYMINEN JA
-SUNNUNTAITYÖ ....................................................... 84
+#### 20 SÄÄNNÖLLISEN TYÖAJAN YLITTYMINEN JA SUNNUNTAITYÖ ....................................................... 84
+
+```
 20.1 Vuorokautinen ylityö .......................................... 84
 20.2 Viikoittainen ylityö .............................................. 85
 20.3 Työajan enimmäismäärä ..................................... 86
@@ -136,16 +129,11 @@ SUNNUNTAITYÖ ....................................................... 84
 tehty työ ....................................................................... 90
 20.10 Viikoittaisesta vapaa-ajasta poikkeaminen
 ja sen korvaaminen ....................................................... 91
-
-
-```
-Sisällysluettelo
-```
-```
 20.11 Hälytysluontoinen työ ........................................ 92
 20.12 Varallaolo ............................................................ 93
 ```
-21 VUOSILOMA .............................................................. 94
+
+#### 21 VUOSILOMA .............................................................. 94
 
 ```
 21.1 Vuosiloman pituus ja antaminen ......................... 94
@@ -159,9 +147,7 @@ lomakorvaus .................................................................. 9
 ```
 **IV TYÖKOMENNUKSET JA KORVAUKSET .............. 101**
 
-#### 22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN UL-
-
-#### KOPUOLELLA .......................................................... 101
+#### 22 TYÖSKENTELY VARSINAISEN TYÖPAIKAN ULKOPUOLELLA .......................................................... 101
 
 ```
 22.1 Varsinaisen työpaikan määritelmä .................... 101
@@ -177,20 +163,9 @@ korvaaminen ............................................................... 102
 22.8 Eräät poikkeusmääräykset ................................. 108
 22.9 Paikallinen sopiminen ....................................... 109
 ```
+#### 29 HENKILÖSTÖN EDUSTUSTEHTÄVÄN HOITAMISEN VAIKUTUKSET TYÖSUHTEESEEN, TYÖTEHTÄVIIN JA PALKKAAN ........................... 122
 
-## Sisällysluettelo
-
-
-```
-Sisällysluettelo
-```
-29 HENKILÖSTÖN EDUSTUSTEHTÄVÄN HOITAMI-
-SEN VAIKUTUKSET TYÖSUHTEESEEN,
-TYÖTEHTÄVIIN JA PALKKAAN ........................... 122
-
-#### 30 TYÖSUOJELUVALTUUTETUN
-
-#### TYÖSUHDETURVA .................................................. 123
+#### 30 TYÖSUOJELUVALTUUTETUN TYÖSUHDETURVA .................................................. 123
 
 ```
 30.1 Työsopimuksen irtisanominen ja työsuojelu-
@@ -217,17 +192,11 @@ käsitteleminen ............................................................ 125
 31.4 Sairausajan tai adoptio-, äitiys- ja isyysvapaan
 palkasta tehtävät vähennykset .................................... 139
 ```
-32 LÄÄKÄRINTARKASTUKSET................................. 140
+#### 32 LÄÄKÄRINTARKASTUKSET................................. 140
 
 ```
 32.1 Ansionmenetyksen korvaaminen lakisääteisen
 lääkärintarkastuksen ajalta .......................................... 140
-```
-
-```
-Sisällysluettelo
-```
-```
 32.2 Ansionmenetyksen korvaaminen muiden
 lääkärintarkastusten ajalta ........................................... 141
 32.3 Työhöntulotarkastus........................................... 144
@@ -236,15 +205,9 @@ lääkärintarkastusten ajalta ........................................... 141
 **VII TYÖSOPIMUKSEN PÄÄTTÄMINEN JA
 TYÖNTEKIJÄN LOMAUTTAMINEN ................. 145**
 
-33 SOVELTAMISALA .................................................... 145
+#### 33 SOVELTAMISALA .................................................... 145
 
-#### 34 TYÖSOPIMUKSEN PÄÄTTÄMINEN JA
-
-#### TYÖNTEKIJÄN LOMAUTTAMINEN
-
-#### TYÖNTEKIJÄSTÄ JOHTUVASTA TAI HÄNEN
-
-#### HENKILÖÖNSÄ LIITTYVÄSTÄ SYYSTÄ ............ 146
+#### 34 TYÖSOPIMUKSEN PÄÄTTÄMINEN JA TYÖNTEKIJÄN LOMAUTTAMINEN TYÖNTEKIJÄSTÄ JOHTUVASTA TAI HÄNEN HENKILÖÖNSÄ LIITTYVÄSTÄ SYYSTÄ ............ 146
 
 ```
 34.1 Lomauttaminen työntekijästä johtuvasta tai hänen
@@ -254,28 +217,40 @@ irtisanomisperusteet .................................................... 146
 34.3 Purkamisen ja purkautuneena käsittelemisen
 perusteet ...................................................................... 146
 ```
-35 TYÖSOPIMUKSEN IRTISANOMINEN
-TALOUDELLISISTA, TUOTANNOLLISISTA TAI
-TYÖNANTAJAN TOIMINNAN UUDELLEENJÄR-
-JESTELYISTÄ JOHTUVISTA SYISTÄ.................... 147
+#### 35 TYÖSOPIMUKSEN IRTISANOMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN TOIMINNAN UUDELLEENJÄRJESTELYISTÄ JOHTUVISTA SYISTÄ.................... 147
+
+```
 35.1 Irtisanomisen perusteet ...................................... 147
 35.2 Työvoiman vähentämisjärjestys ....................... 147
 35.3 Irtisanomisajan kuluminen ja määräaikainen
 työsopimus .................................................................. 147
 35.4 Työntekijän takaisin ottaminen .......................... 148
+```
 
-
-## Sisällysluettelo
-
-#### 37 TYÖNTEKIJÄN LOMAUTTAMINEN TALOUDELLI-
-
-#### SISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN
-
+#### 37 TYÖNTEKIJÄN LOMAUTTAMINEN TALOUDELLISISTA, TUOTANNOLLISISTA TAI TYÖNANTAJAN
 
 ```
-Sisällysluettelo
+37.1 Lomauttamisen perusteet ..................................150
+37.2 Työvoiman vähentämisjärjestys ........................150
+37.3 Lomautusilmoitusaika.......................................151
+37.4 Lyhennetty työaika ............................................151
+37.5 Paikallinen sopiminen .......................................151
+37.6 Lomautuksen siirtäminen ..................................151
+37.7 Lomautuksen keskeyttäminen ...........................151
+37.8 Muu työ lomautusaikana ..................................152
+37.9 Työsuhteen päättyminen lomautuksen aikana ...152
 ```
-39 TYÖSOPIMUKSEN PÄÄTTÄMISMENETTELY ... 156
+
+#### 38 TYÖSOPIMUKSEN IRTISANOMISAJAT JA TYÖ- SUHTEEN KESTOAJAN MÄÄRÄYTYMINEN.....153
+
+```
+38.1 Irtisanomisajat...................................................153
+38.2 Irtisanomisajan noudattamatta jättäminen.........154
+38.3 Työsuhteen kestoajan määräytyminen ..............154
+38.4 Määräajan laskeminen ......................................155
+```
+
+#### 39 TYÖSOPIMUKSEN PÄÄTTÄMISMENETTELY ... 156
 
 ```
 39.1 Irtisanomisperusteeseen vetoaminen ................. 156
@@ -284,14 +259,10 @@ Sisällysluettelo
 39.4 Työsopimuksen päättämisen perusteiden ilmoitta-
 minen .......................................................................... 157
 ```
-40 NEUVOTTELUMENETTELY TYÖVOIMAN
-KÄYTTÖÄ VÄHENNETTÄESSÄ ........................... 157
 
-#### 41 KORVAUKSET TYÖSOPIMUKSEN PERUSTEET-
+#### 40 NEUVOTTELUMENETTELY TYÖVOIMAN KÄYTTÖÄ VÄHENNETTÄESSÄ ........................... 157
 
-#### TOMASTA PÄÄTTÄMISESTÄ JA TYÖNTEKIJÄN
-
-#### PERUSTEETTOMASTA LOMAUTTAMISESTA .... 159
+#### 41 KORVAUKSET TYÖSOPIMUKSEN PERUSTEETTOMASTA PÄÄTTÄMISESTÄ JA TYÖNTEKIJÄN PERUSTEETTOMASTA LOMAUTTAMISESTA .... 159
 
 ```
 41.1 Korvausten määräytyminen ............................... 159
@@ -299,14 +270,11 @@ KÄYTTÖÄ VÄHENNETTÄESSÄ ........................... 157
 hyvityssakkoon ........................................................... 160
 41.3 Menettelytapamääräysten rikkominen ............... 160
 ```
-42 TOIMIVALTAINEN TUOMIOISTUIN JA
+
+#### 42 TOIMIVALTAINEN TUOMIOISTUIN JA
 KANNEAIKA ............................................................. 160
 
-#### VIII LUOTTAMUSMIEHET, PAIKALLINEN
-
-#### SOPIMINEN JA ERIMIELISYYKSIEN
-
-#### RATKAISEMINEN .................................................. 161
+#### VIII LUOTTAMUSMIEHET, PAIKALLINEN SOPIMINEN JA ERIMIELISYYKSIEN RATKAISEMINEN .................................................. 161
 
 #### 43 LUOTTAMUSMIEHET ............................................. 161
 
@@ -315,22 +283,47 @@ KANNEAIKA ............................................................. 160
 43.2 Luottamusmiehen asema ................................... 162
 43.3 Luottamusmieskelpoisuus ja luottamusmiehen
 valitseminen ................................................................ 162
+43.4 Luottamusmiehen toimintaedellytykset.............166
+43.5 Luottamusmiestehtävän hoitamisen vaikutukset
+työsuhteeseen, työtehtäviin ja palkkaan .....................175
+43.6 Luottamusmiehen työsuhdeturva ......................176
 ```
 
-## Sisällysluettelo
+#### 44 PAIKALLINEN SOPIMINEN ...................................180
 
+```
+44.1 Mahdollisuus paikalliseen sopimiseen ..............180
+44.2 Paikallisen sopimisen osapuolet ........................180
+44.3 Paikallisen sopimuksen sitovuus .......................181
+44.4 Paikallisen sopimuksen muoto ja kestoaika ......181
+44.5. Paikallisen sopimisen valmiudet ja sopimusten seuranta .......................................................................181
+44.6 Paikallisen sopimuksen jälkivaikutus................182
+44.7 Yhteistoiminta suomalaisessa yritysryhmässä ..182
+```
+
+#### 45 ERIMIELISYYDET JA NIIDEN RATKAISEMINEN ....................................................183
 
 ```
-Sisällysluettelo
+45.1 Neuvotteluvelvollisuus ja painostuskielto.........183
+45.2 Paikallinen neuvottelujärjestys..........................183
+45.3 Liittojen myötävaikutus.....................................184
+45.4 Erimielisyysmuistio ja työtuomioistuin.............184
 ```
+
+#### IX ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ JA MUITA ERINÄISIÄ MÄÄRÄYKSIÄ ....................186
+
+#### 46 ULKOPUOLISEN TYÖVOIMAN KÄYTTÖ...........186
+
 ```
+46.1 Alihankinta........................................................186 
+46.2 Vuokratyövoima................................................186
 46.3 Ulkopuolisesta työvoimasta tiedottaminen ........ 189
 46.4 Tilaajan vastuu ja selvitysten hankkiminen ....... 189
 46.5 Kokoontuminen työpaikalla ............................. 190
 46.6 Tiedotustoiminta ................................................ 190
 46.7 Ammattiyhdistysjäsenmaksujen pidättäminen .. 191
 ```
-47 KOULUTUS .............................................................. 191
+#### 47 KOULUTUS .............................................................. 191
 
 ```
 47.1 Ammatillinen koulutus ..................................... 191
@@ -1665,61 +1658,10 @@ edellyttävät työt.
 
 **Työkohtaiset tunti- ja kuukausipalkat**
 
-Työkohtaiset palkat ovat työnvaativuusryhmittäin työehtosopi-
-muksen voimaan tullessa seuraavat:
-
-```
-Työn-
-vaativuus-
-ryhmä
-```
-```
-Työkohtainen
-tuntipalkka
-senttiä/tunti
-```
-```
-Työkohtainen
-kuukausipalkka
-euroa/kuukausi
-```
-```
-Palkka-
-ryhmä
-```
-#### I 930 1621 C
-
-#### II 1077 1877 B
-
-#### III 1246 2172 A
-
-Työkohtaiset palkat ovat työnvaativuusryhmittäin 1.3.2022 alka-
-en seuraavat:
-
-```
-Työn-
-vaativuus-
-ryhmä
-```
-```
-Työkohtainen
-tuntipalkka
-senttiä/tunti
-```
-```
-Työkohtainen
-kuukausipalkka
-euroa/kuukausi
-```
-```
-Palkka-
-ryhmä
-```
-#### I 949 1654 C
-
-#### II 1099 1915 B
-
-#### III 1272 2217 A
+Työkohtaiset palkat ovat työnvaativuusryhmittäin 1.3.2022 alkaen seuraavat:
+1. Työnvaativuusryhmä I: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C. 
+2. Työnvaativuusryhmä II: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
+3. Työnvaativuusryhmä III: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
 
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal-
 kankorotuksen ajankohdasta lukien.
@@ -1745,35 +1687,11 @@ tään viisi.
 
 **Työkohtaiset tunti- ja kuukausipalkat**
 
-Työkohtaiset palkat ovat työnvaativuusryhmissä työehtosopi-
-muksen voimaan tullessa seuraavat:
+Työkohtaiset palkat ovat työnvaativuusryhmissä 1.3.2022 alkaen seuraavat:
+Työkohtaisen palkan alaraja on 949 senttiä/tunti ja kuukausipalkka 1654 euroa/kuukausi.
+Työkohtaisen palkan yläraja on 1402 senttiä/tunti ja kuukausipalkka 2444 euroa/kuukausi.
 
-```
-Tuntipalkat
-senttiä/tunti
-```
-```
-Kuukausipalkat
-euroa/kuukausi
-alaraja 930 1621
-yläraja 1374 2395
-```
-Työkohtaiset palkat ovat työnvaativuusryhmissä 1.3.2022 alkaen
-seuraavat:
-
-```
-Tuntipalkat
-senttiä/tunti
-```
-```
-Kuukausipalkat
-euroa/kuukausi
-alaraja 949 1654
-yläraja 1402 2444
-```
-Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal-
-kankorotuksen ajankohdasta lukien.
-
+Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti palkankorotuksen ajankohdasta lukien.
 
 ### 8.2 Työkohtainen palkanosuus
 
@@ -1849,25 +1767,14 @@ vuoden perusteella. Työntekovuoden aikana 15 vuotta täyttävälle
 työntekijälle maksetaan portaan 1 mukaista palkkaa.
 
 
-Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuu-
-kausipalkat ovat työehtosopimuksen voimaan tullessa seuraavat:
+Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuukausipalkat ovat 1.3.2022 alkaen seuraavat neliportaisen asteikon mukaan:
 
 ```
-senttiä/tunti euroa/kuukausi
-Porras 1 803 1400
-Porras 2 844 1470
-Porras 3 886 1544
-Porras 4 930 1621
-```
-Opiskelijoiden ja alle 18-vuotiaiden työntekijöiden tunti- ja kuu-
-kausipalkat ovat 1.3.2022 alkaen seuraavat:
+1. Porras 1 (työntekovuoden aikana 15 vuotta täyttävät): 820 senttiä/tunti, 1429 euroa/kuukausi
+2. Porras 2 (työntekovuoden aikana 16 vuotta täyttävät): 861 senttiä/tunti, 1500 euroa/kuukausi
+3. Porras 3 (työntekovuoden aikana 17 vuotta täyttävät): 904 senttiä/tunti, 1575 euroa/kuukausi
+4. Porras 4 (työntekovuoden aikana 18 vuotta täyttävät): 949 senttiä/tunti, 1654 euroa/kuukausi.
 
-```
-senttiä/tunti euroa/kuukausi
-Porras 1 820 1429
-Porras 2 861 1500
-Porras 3 904 1575
-Porras 4 949 1654
 ```
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal-
 kankorotuksen ajankohdasta lukien.
@@ -2208,13 +2115,11 @@ käytäntöä.
 **14.4.2 Palvelusvuosilisän määrä**
 
 Lisä määräytyy seuraavasti:
+Työsuhteen kesto 10 mutta ei 15 vuotta: Lisän laskentakaava on 2 X Lkk X KTA.
+Työsuhteen kesto 15 mutta ei 20 vuotta: Lisän laskentakaava on 4 X Lkk X KTA.
+Työsuhteen kesto 20 mutta ei 25 vuotta: Lisän laskentakaava on 6 X Lkk X KTA.
+Työsuhteen kesto 25 vuotta tai enemmän: Lisän laskentakaava on 8 X Lkk X KTA.
 
-Työsuhteen kesto Lisän laskentakaava
-
-10 mutta ei 15 vuotta 2 x Lkk x KTA
-15 mutta ei 20 vuotta 4 x Lkk x KTA
-20 mutta ei 25 vuotta 6 x Lkk x KTA
-25 vuotta tai enemmän 8 x Lkk x KTA
 
 Lkk on edellisen lomanmääräytymisvuoden lomaan oikeuttavi-
 en kuukausien lukumäärä
@@ -3324,56 +3229,37 @@ olevaan palkkasummaan sisältyvät:
 
 _A. Kertoimet_
 
-Työntekijän vuosilomapalkka ja lomakorvaus saadaan kertomal-
-la hänen lomanmääräytymisvuoden keskituntiansionsa lomapäi-
-vien lukumäärään perustuvalla kertoimella. Kertoimet ovat seu-
-raavat:
-
-```
-Lomapäivien luku-
-määrä
-```
-```
-Kerroin
-```
-```
-2 16,0
-3 23,5
-4 31,0
-5 37,8
-6 44,5
-7 51,1
-8 57,6
-9 64,8
-10 72,0
-11 79,2
-12 86,4
-13 94,0
-14 101,6
-15 108,8
-16 116,0
-17 123,6
-18 131,2
-19 138,8
-20 146,4
-21 154,4
-22 162,4
-23 170,0
-24 177,6
-25 185,2
-26 192,8
-```
-
-#### 27 200,0
-
-#### 28 207,2
-
-#### 29 214,8
-
-#### 30 222,4
-
-Jos lomapäivien lukumäärä on suurempi kuin 30, korotetaan ker-
-rointa luvulla 7,2 lomapäivää kohden.
+Työntekijän vuosilomapalkka ja lomakorvaus saadaan kertomalla hänen lomanmääräytymisvuoden keskituntiansionsa lomapäivien lukumäärään perustuvalla kertoimella. Kertoimet ovat seuraavat:
+Jos lomapäivien lukumäärä on 2, kerroin on 16,0
+Jos lomapäivien lukumäärä on 3, kerroin on 23,5
+Jos lomapäivien lukumäärä on 4, kerroin on 31,0
+Jos lomapäivien lukumäärä on 5, kerroin on 37,8
+Jos lomapäivien lukumäärä on 6, kerroin on 44,5
+Jos lomapäivien lukumäärä on 7, kerroin on 51,1
+Jos lomapäivien lukumäärä on 8, kerroin on 57,6
+Jos lomapäivien lukumäärä on 9, kerroin on 64,8
+Jos lomapäivien lukumäärä on 10, kerroin on 72,0
+Jos lomapäivien lukumäärä on 11, kerroin on 79,2
+Jos lomapäivien lukumäärä on 12, kerroin on 86,4
+Jos lomapäivien lukumäärä on 13, kerroin on 94,0
+Jos lomapäivien lukumäärä on 14, kerroin on 101,6
+Jos lomapäivien lukumäärä on 15, kerroin on 108,8
+Jos lomapäivien lukumäärä on 16, kerroin on 116,0
+Jos lomapäivien lukumäärä on 17, kerroin on 123,6
+Jos lomapäivien lukumäärä on 18, kerroin on 131,2
+Jos lomapäivien lukumäärä on 19, kerroin on 138,8
+Jos lomapäivien lukumäärä on 20, kerroin on 146,4
+Jos lomapäivien lukumäärä on 21, kerroin on 154,4
+Jos lomapäivien lukumäärä on 22, kerroin on 162,4
+Jos lomapäivien lukumäärä on 23, kerroin on 170,0
+Jos lomapäivien lukumäärä on 24, kerroin on 177,6
+Jos lomapäivien lukumäärä on 25, kerroin on 185,2
+Jos lomapäivien lukumäärä on 26, kerroin on 192,8
+Jos lomapäivien lukumäärä on 27, kerroin on 200,0
+Jos lomapäivien lukumäärä on 28, kerroin on 207,2
+Jos lomapäivien lukumäärä on 29, kerroin on 214,8
+Jos lomapäivien lukumäärä on 30, kerroin on 222,4
+Jos lomapäivien lukumäärä on suurempi kuin 30, korotetaan kerrointa luvulla 7,2 lomapäivää kohden.
 
 _B. Osa-aikatyö_
 
@@ -4166,26 +4052,13 @@ kiarvot ovat seuraavat:
 Toimialat (TOL 2002): Kertoimien vaihteluvälit ja
 keskiarvot:
 
-I Kaivostoiminta (15) vaihteluväli 0,28 - 0,37
-Metallien jalostus (27) keskiarvo 0,33
-Metallituotteiden
-valmistus (28)
-Laivojen, veneiden ja
-raideliikenteen kulkuneuvojen
-valmistus (35)
+I Kaivostoiminta (15), Metallien jalostus (27), Metallituotteiden
+valmistus (28), Laivojen, veneiden ja raideliikenteen kulkuneuvojen valmistus (35): Kertoimien vaihteluvälit ja keskiarvot: vaihteluväli 0,28 - 0,37 ja keskiarvo 0,33.
 
-II Koneiden ja laitteiden vaihteluväli 0,23 - 0,31
-valmistus (29) keskiarvo 0,27
-Sähkökoneiden ja -laitteiden
-valmistus (31)
-Kulkuneuvojen valmistus (34)
+II Koneiden ja laitteiden valmistus (29), Sähkökoneiden ja -laitteiden
+valmistus (31), Kulkuneuvojen valmistus (34): vaihteluväli 0,23 - 0,31 ja keskiarvo 0,27.
 
-III Elektroniikkatuotteiden vaihteluväli 0,20 - 0,27
-valmistus (30) keskiarvo 0,23
-Tietoliikennetuotteiden
-valmistus (32)
-Hienomekaanisten tuotteiden
-valmistus (33)
+III Elektroniikkatuotteiden valmistus (30), Tietoliikennetuotteiden valmistus (32) Hienomekaanisten tuotteiden valmistus (33): vaihteluväli 0,20 - 0,27 ja keskiarvo 0,23.
 
 Jos työsuojeluvaltuutettu on vapautettu säännöllisesti toistuviksi
 määräajoiksi työstään, tulee hänen hoitaa tehtäväänsä pääsään-
@@ -4210,36 +4083,16 @@ ja työsuojeluvaltuutetun välillä ole sovittu toisin, kuukausittain
 korvausta seuraavasti:
 
 ```
-Työstä vapautuksen määrä
-tunteina/4 viikkoa
-```
-```
-Korvaus
-TES:n
-voimaan
-tullessa
-euroa/kk
-```
-```
-Korvaus
-1.3.2022
-alkaen
-euroa/kk
-```
-```
-4 - 15 tuntia 79 81
-16 - 33 ” 87 89
-34 - 55 ” 94 96
-56 - 79 ” 112 114
-80 - 95 ” 135 138
-96 -139 ” 158 161
-140 -159 ” 185 189
-160 tuntia/ kokonaan
-vapautettu
-```
-#### 221 225
+Jos työstä vapautuksen määrä on 4-15 tuntia neljässä viikossa, on korvaus 81 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 16-33 tuntia neljässä viikossa, on korvaus 89 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 34-55 tuntia neljässä viikossa on korvaus 96 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 56-79 tuntia neljässä viikossa, on korvaus 114 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 80-95 tuntia neljässä viikossa, on korvaus 138 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 96-139 tuntia neljässä viikossa, on korvaus 161 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 140-159 tuntia neljässä viikossa, on korvaus 189 euroa kuukaudessa.
+Jos työstä vapautuksen määrä on 160 tuntia neljässä viikossa tai kokonaan vapautettu, on korvaus 225 euroa kuukaudessa.
 
-
+```
 Jos työsuojeluvaltuutettu, työsuojeluasiamies tai työsuojelutoi-
 mikunnan tai muun työsuojelutoimikuntaa vastaavan yhteistoi-
 mintaelimen jäsen suorittaa työnantajan kanssa sovittuja tehtäviä
@@ -4552,8 +4405,6 @@ Paikallisesti sovittavia asioita voivat olla muun muassa:
 - keitä sopimus koskee
 - kenelle ilmoitus tehdään
 - millä tavalla ilmoitetaan
-
-
 - miten ilmoitus kirjataan
 - kuinka toimitaan sairauden jatkuessa
 - mahdolliset rajoitukset hyväksyttävien poissaolojen mää-
@@ -4579,18 +4430,14 @@ ajanjakson sisään sattuvilta työtuntijärjestelmän mukaisilta työ-
 päiviltä seuraavasti:
 
 ```
-Työsuhde, joka ennen työkyvyttömyyden
-alkua on jatkunut yhtäjaksoisesti
-```
-```
-Kalenteri-
-ajanjakso
-```
-```
-vähintään 1 kuukauden mutta alle 3 vuotta 28 päivää
-3 vuotta mutta alle 5 vuotta 35 päivää
-5 vuotta mutta alle 10 vuotta 42 päivää
-10 vuotta tai kauemmin 56 päivää
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 1 kuukauden mutta alle 3 vuotta: Kalenterijakso 28 päivää.
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 3 vuotta mutta alle 5 vuotta: Kalenterijakso 35 päivää.
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 5 vuotta mutta alle 10 vuotta: Kalenterijakso 42 päivää.
+Työsuhde, joka ennen työkyvyttömyyden alkua on jatkunut yhtäjaksoisesti
+vähintään 10 vuotta tai kauemmin: Kalenterijakso 56 päivää
 ```
 Sairausajan palkka maksetaan kunkin korvattavan työpäivän työ-
 tuntijärjestelmän mukaisilta säännöllisiltä työtunneilta.
@@ -5424,22 +5271,21 @@ vää.
 Työnantajan on irtisanoessaan työsopimuksen noudatettava seu-
 raavia irtisanomisaikoja:
 
-Työsuhde jatkunut keskeytyksettä Irtisanomisaika
-
-enintään vuoden 2 viikkoa
-yli vuoden mutta enintään 4 vuotta 1 kuukausi
-yli 4 vuotta mutta enintään 8 vuotta 2 kuukautta
-yli 8 vuotta mutta enintään 12 vuotta 4 kuukautta
-yli 12 vuotta 6 kuukautta
-
+```
+Työsuhde on jatkunut keskeytyksettä enintään vuoden, jolloin irtisanomisaika on 2 viikkoa.
+Työsuhde on jatkunut keskeytyksettä yli vuoden mutta enintään 4 vuotta, jolloin irtisanomisaika on 1 kuukausi.
+Työsuhde on jatkunut keskeytyksettä yli 4 vuotta mutta enintään 8 vuotta, jolloin irtisanomisaika on 2 kuukautta. 
+Työsuhde on jatkunut keskeytyksettä yli 8 vuotta mutta enintään 12 vuotta, jolloin irtisanomisaika on 4 kuukautta.
+Työsuhde on jatkunut keskeytyksettä yli 12 vuotta, jolloin irtisanomisaika on 6 kuukautta.
+```
 Työntekijän on irtisanoessaan työsopimuksen noudatettava seu-
 raavia irtisanomisaikoja:
 
-Työsuhde jatkunut keskeytyksettä Irtisanomisaika
+```
+Työsuhde on jatkunut keskeytyksettä enintään 5 vuotta, jolloin irtisanomisaika on 2 viikkoa.
+Työsuhde on jatkunut keskeytyksettä yli 5 vuotta, jolloin irtisanomisaika on 1 kuukausi.
 
-enintään 5 vuotta 2 viikkoa
-yli 5 vuotta 1 kuukausi
-
+```
 
 ### 38.2 Irtisanomisajan noudattamatta jättäminen
 
@@ -5596,70 +5442,22 @@ yhteistoimintalain (1333/2021) 19 §:n mukaiset tiedot ovat riit-
 täviä neuvottelujen aloittamiseksi. Neuvottelut voidaan aloittaa
 heti tarpeellisen valmistautumisajan jälkeen.
 
-Neuvotteluajat
+Neuvotteluajat:
 
 ```
-Neuvottelujen kohteena on toi-
-menpide, joka ilmeisesti johtaa:
-```
-```
-Neuvotteluaika:
-```
-```
-Alle kymmenen työntekijän osa-
-aikaistamiseen, lomauttamiseen
-tai irtisanomiseen.
-```
-```
-14 päivää neuvotteluesityk-
-sen tekemisestä, ellei paikal-
-lisesti ole sovittu toisin.
-Enintään 90 päivää kestävään
-vähintään kymmeneen työnte-
-kijään kohdistuvaan lomautta-
-miseen.
-```
-```
-14 päivää neuvotteluesityk-
-sen tekemisestä, ellei paikal-
-lisesti ole sovittu toisin.
-```
-```
-Vähintään kymmenen työnteki-
-jän osa-aikaistamiseen, lomaut-
-tamiseen yli 90 päivän ajaksi tai
-irtisanomiseen.
-```
-```
-Kuusi viikkoa neuvottelu-
-esityksen tekemisestä,ellei
-paikallisesti ole sovittu
-toisin.
+Neuvottelujen kohteena on toimenpide, joka ilmeisesti johtaa alle kymmenen työntekijän osa- aikaistamiseen, lomauttamiseen tai irtisanomiseen. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
+
+Neuvottelujen kohteena on toimenpide, joka ilmeisesti johtaa enintään 90 päivää kestävään vähintään kymmeneen työntekijään kohdistuvaan lomauttamiseen. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
+
+Neuvottelujen kohteena on toimenpide, joka ilmeisesti johtaa vähintään kymmenen työntekijän osa-aikaistamiseen, lomauttamiseen yli 90 päivän ajaksi tai irtisanomiseen. Neuvotteluaika on kuusi viikkoa neuvotteluesityksen tekemisestä,ellei paikallisesti ole sovittu toisin.
 ```
 Neuvotteluaika (koskee kaikkia toimenpiteitä) pienissä yrityksis-
-sä ja yrityssaneeraustilanteissa
+sä ja yrityssaneeraustilanteissa:
 
 ```
-Yritys, jonka työsuhteessa
-olevien työntekijöiden määrä
-on säännöllisesti vähintään 20
-mutta alle 30.
-```
-```
-14 päivää neuvotteluesi-
-tyksen tekemisestä, ellei
-paikallisesti ole sovittu
-toisin.
-Yritys, joka on yrityksen sa-
-neerauksesta annetussa laissa
-tarkoitetun saneerausmenettelyn
-kohteena.
-```
-```
-14 päivää neuvotteluesi-
-tyksen tekemisestä, ellei
-paikallisesti ole sovittu
-toisin.
+Yritys, jonka työsuhteessa olevien työntekijöiden määrä on säännöllisesti vähintään 20 mutta alle 30. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
+
+Yritys, joka on yrityksen saneerauksesta annetussa laissa tarkoitetun saneerausmenettelyn kohteena. Neuvotteluaika on 14 päivää neuvotteluesityksen tekemisestä, ellei paikallisesti ole sovittu toisin.
 ```
 
 Työntekijöiden mahdollista irtisanomista edeltävien yhteistoi-
@@ -6134,23 +5932,14 @@ vita toisin, määräytyy vapautus työstä seuraavasti:
 _A. Pääluottamusmiehen säännöllinen vapautus työstä_
 
 ```
-Työpaikan työntekijöiden
-sekä vuokratyöntekijöiden
-(ks. kohta C) lukumäärä
-```
-```
-Säännöllisen vapautuksen
-määrä tunteina/4 viikkoa
-```
-```
-10 - 19 5
-20 - 49 17
-50 - 99 36
-100 - 149 60
-150 - 199 84
-200 - 249 100
-250 - 399 148
-400 - kokonaan vapautettu
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, on säännöllisen vapautuksen määrä 5 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, on säännöllisen vapautuksen määrä 17 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, on säännöllisen vapautuksen määrä 36 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 100-149, on säännöllisen vapautuksen määrä 60 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, on säännöllisen vapautuksen määrä 84 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, on säännöllisen vapautuksen määrä 100 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, on säännöllisen vapautuksen määrä 148 tuntia neljältä viikolta.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 400 tai enemmän, on pääluottamusmies kokonaan vapautettu muusta työstä.
 ```
 Yllä oleva pääluottamusmiehen työstä vapauttamisen määrää
 osoittava taulukko perustuu normaalipituiseen viikkotyöaikaan.
@@ -6162,9 +5951,6 @@ Mikäli luottamusmiehen toimialueella työskentelee säännönmu-
 kaisesti vähintään 75 työntekijää, järjestetään hänelle vapautusta
 työstä. Vapautuksen määrä on sataa työntekijää kohti kahdeksan
 tuntia neljän viikon jaksossa.
-
-työntekijämäärä x 8 t = vapautus tunteina/4 viikon jakso
-100
 
 _C. Vapautuksen pituuden vahvistaminen_
 
@@ -6218,30 +6004,14 @@ Pääluottamusmiehelle maksetaan ansionmenetyksen korvauksen
 lisäksi korvausta kuukausittain seuraavasti:
 
 ```
-Työpaikan työntekijöiden
-sekä vuokratyöntekijöi-
-den (ks. 43.4.3 kohta C)
-lukumäärä
-```
-```
-Korvaus TES:n
-voimaan tulles-
-sa euroa/kk
-```
-```
-Korvaus
-1.3.2022 alkaen
-euroa/kk
-```
-```
-10 - 19 79 81
-20 - 49 87 89
-50 - 99 94 96
-100 - 149 112 114
-150 - 199 135 138
-200 - 249 158 161
-250 - 399 185 189
-400- 221 225
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 10-19, korvaus on 81 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 20-49, korvaus on 89 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 50-99, korvaus on 96 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 100-149, korvaus on 114 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 150-199, korvaus on 138 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 200-249, korvaus on 161 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on 250-399, korvaus on 189 euroa/kk.
+Jos työpaikan työntekijöiden sekä vuokratyöntekijöiden lukumäärä on yli 400, korvaus on 225 euroa/kk.
 ```
 
 Työnantaja ja pääluottamusmies voivat sopia toisin pääluotta-
@@ -6915,9 +6685,7 @@ suoranaiset kustannukset ja säännöllisen työajan ansionmenetys
 kuten kohdassa 47.1 on määrätty.
 
 
-### 47.3 Ay-koulutus, työsuhteen säilyminen ja ilmoitus-
-
-### ajat
+### 47.3 Ay-koulutus, työsuhteen säilyminen ja ilmoitusajat
 
 Työntekijä voi työsuhteen katkeamatta osallistua Teollisuusliitto
 ry:n tai SAK:n järjestämälle enintään kuukauden kestävälle kurs-
