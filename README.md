@@ -1619,84 +1619,16 @@ niitä ohjetöihin.
 
 **Työkohtaiset tunti- ja kuukausipalkat**
 
-Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat
-ovat työehtosopimuksen voimaan tullessa seuraavat:
-
-```
-Työnvaativuus-
-ryhmä
-```
-```
-Työkohtainen
-tuntipalkka
-senttiä/tunti
-```
-```
-Työkohtainen
-kuukausipalkka
-euroa/kuukausi
-```
-```
-Palkka-
-ryhmä
-```
-#### 1 930 1621 C
-
-#### 2 977 1702 C
-
-#### 3 1025 1787 C
-
-#### 4 1077 1877 B
-
-#### 5 1130 1970 B
-
-#### 6 1187 2069 B
-
-#### 7 1246 2172 A
-
-#### 8 1309 2281 A
-
-#### 9 1374 2395 A
-
-
-Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat
-ovat 1.3.2022 alkaen seuraavat:
-
-```
-Työnvaativuus-
-ryhmä
-```
-```
-Työkohtainen
-tuntipalkka
-senttiä/tunti
-```
-```
-Työkohtainen
-kuukausipalkka
-euroa/kuukausi
-```
-```
-Palkka-
-ryhmä
-```
-#### 1 949 1654 C
-
-#### 2 996 1737 C
-
-#### 3 1046 1824 C
-
-#### 4 1099 1915 B
-
-#### 5 1154 2010 B
-
-#### 6 1211 2111 B
-
-#### 7 1272 2217 A
-
-#### 8 1335 2327 A
-
-#### 9 1402 2444 A
+Käytettäessä yhdeksää työnvaativuusryhmää työkohtaiset palkat ovat 1.3.2022 alkaen seuraavat:
+1. Työnvaativuusryhmä 1: työkohtainen tuntipalkka 949 senttiä/tunti, työkohtainen kuukausipalkka 1654 euroa/kuukausi, palkkaryhmä C.
+2. Työnvaativuusryhmä 2: työkohtainen tuntipalkka 996 senttiä/tunti, työkohtainen kuukausipalkka 1737 euroa/kuukausi, palkkaryhmä C.
+3. Työnvaativuusryhmä 3: työkohtainen tuntipalkka 1046 senttiä/tunti, työkohtainen kuukausipalkka 1824 euroa/kuukausi, palkkaryhmä C.
+4. Työnvaativuusryhmä 4: työkohtainen tuntipalkka 1099 senttiä/tunti, työkohtainen kuukausipalkka 1915 euroa/kuukausi, palkkaryhmä B.
+5. Työnvaativuusryhmä 5: työkohtainen tuntipalkka 1154 senttiä/tunti, työkohtainen kuukausipalkka 2010 euroa/kuukausi, palkkaryhmä B.
+6. Työnvaativuusryhmä 6: työkohtainen tuntipalkka 1211 senttiä/tunti, työkohtainen kuukausipalkka 2111 euroa/kuukausi, palkkaryhmä B.
+7. Työnvaativuusryhmä 7: työkohtainen tuntipalkka 1272 senttiä/tunti, työkohtainen kuukausipalkka 2217 euroa/kuukausi, palkkaryhmä A.
+8. Työnvaativuusryhmä 8: työkohtainen tuntipalkka 1335 senttiä/tunti, työkohtainen kuukausipalkka 2327 euroa/kuukausi, palkkaryhmä A.
+9. Työnvaativuusryhmä 9: työkohtainen tuntipalkka 1402 senttiä/tunti, työkohtainen kuukausipalkka 2444 euroa/kuukausi, palkkaryhmä A.
 
 Työkohtaiset palkat otetaan käyttöön työpaikkakohtaisesti pal-
 kankorotuksen ajankohdasta lukien.
